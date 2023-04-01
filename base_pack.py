@@ -2,7 +2,6 @@ import sys
 import pygame
 from theme import setting
 from Ship import ship 
-from playsound import playsound
 from bullet import Bullet
 from alien import Alien
 from time import sleep

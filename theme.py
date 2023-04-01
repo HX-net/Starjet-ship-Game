@@ -14,7 +14,7 @@ class setting:
         self.BG_rect.width = self.screen_width
         self.BG_rect.height = self.screen_height
         # Bullet setting
-        self.bullet_width = 80
+        self.bullet_width = 5
         self.bullet_height = 15
         self.bullet_color = (250,253,15)
         self.bullet_allowed = 8
